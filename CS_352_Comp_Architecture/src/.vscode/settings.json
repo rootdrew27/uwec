@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.sqlite3": "sqlite",
+        "*.tex": "aspnetcorerazor",
+        "cstdio": "c",
+        "stdio.h": "c",
+        "func.h": "c"
+    }
+}
